@@ -13,6 +13,7 @@ let package = Package(
     platforms: [
         .iOS(.v9),
         .macOS(.v10_10),
+        .tvOS(.v9)
     ],
     products: [
         .library(
@@ -23,7 +24,7 @@ let package = Package(
         .binaryTarget(
             name: "EmitterKit",
             url: "https://github.com/NareshBojja03/emitter-kit/releases/download/v1.0.0/EmitterKit.xcframework.zip",
-            checksum: "PackageMetadata. checksum"
+            checksum: "PackageMetadata.checksum"
         )
     ],
     swiftLanguageVersions: [.v5]
