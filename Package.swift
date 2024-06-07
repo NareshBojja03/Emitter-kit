@@ -24,7 +24,7 @@ let package = Package(
         .binaryTarget(
             name: "EmitterKit",
             url: "https://github.com/NareshBojja03/Emitter-kit/releases/download/v1.0.0/EmitterKit.xcframework.zip",
-            checksum: "76bb11d9e9b6fb1bd94c37d940f291501ab7ce800fbf0024205c24fd6730348f"
+            checksum: "67815317bf9cd0040e80eddf76360a5b7be29ad8a6b9afcf6f8726c72151a1f1"
         )
     ],
     swiftLanguageVersions: [.v5]
