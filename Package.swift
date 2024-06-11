@@ -23,7 +23,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "EmitterKit",
-            url: "https://github.com/NareshBojja03/Emitter-kit/releases/download/v1.0.0/EmitterKit.xcframework.zip",
+            url: "https://github.com/NareshBojja03/Emitter-kit/releases/download/v1.0.1/EmitterKit.xcframework.zip",
             checksum: "67815317bf9cd0040e80eddf76360a5b7be29ad8a6b9afcf6f8726c72151a1f1"
         )
     ],
